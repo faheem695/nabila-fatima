@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>explore pakistan</h1>
+    <p>Exploring Pakistan means discovering its beautiful landscapes, rich culture, historical places, and the hospitality of its people.</p>
+    <hr>
+    |<h1>famous places</h1>
+
+    <h5>hunza valley</h5>
+    <h5>badshai mosque</h5>
+    <h5>mazar e quaid</h5>
+    <hr>
+<b>hunza valley</b>
+<p>
+    Hunza Valley is a<mark> beautiful place</mark> in northern Pakistan, famous for its majestic mountains, crystal-clear rivers, and stunning views.
+It is also known for its rich culture, delicious food, and friendly people.
+
+<a>https://en.wikipedia.org/wiki/Hunza-valley</a>
+</p>
+<b>badshai mosque</b>
+<p>Badshahi Mosque is a famous historical mosque located in Lahore, Pakistan, known for its beautiful Mughal architecture.
+It is one of Pakistans most important landmarks and attracts many visitors every year.
+
+<a>http://en.wikipedia.org/wiki/badshahi-mosque</a>
+</p>
+<b>mazr e qaid</b>
+<p>Mazar-e-Quaid is the beautiful mausoleum of Quaid-e-Azam Muhammad Ali Jinnah, located in Karachi, Pakistan.
+It is a national monument that symbolizes Pakistans  freedom, unity, and pride.
+
+<a>https://en.wikipedia.org/wiki/mazar-e-qaid</a>
+</p>
+
+</body>
+</html>
